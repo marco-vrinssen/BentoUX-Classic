@@ -1,0 +1,28 @@
+## Interface: 11503
+## Title: Classic Bento UX
+## Notes: Extensive, resource-efficient improvements to the user experience.
+## Version: 1.0
+## Author: MIYANKO
+
+Modules/Actionsbars.lua
+Modules/Auras.lua
+Modules/Bags.lua
+Modules/Castbar.lua
+Modules/Chat.lua
+Modules/ComboPoints.lua
+Modules/Commands.lua
+Modules/Config.lua
+Modules/Dialogs.lua
+Modules/Loot.lua
+Modules/Menu.lua
+Modules/Merchant.lua
+Modules/MiniMap.lua
+Modules/NamePlates.lua
+Modules/PlayerFrame.lua
+Modules/Sound.lua
+Modules/StatusBars.lua
+Modules/Support.lua
+Modules/TargetFrame.lua
+Modules/Timers.lua
+Modules/Tooltips.lua
+Modules/WorldMap.lua
